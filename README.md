@@ -10,6 +10,8 @@ This repository contains my laboratory assignments and implementations for the A
 | 2 | Graph Traversal (Level-Order) | Breadth-First Search (BFS) | [View Solution](./02_BFS_Traversal/) |
 | 3 | Graph Traversal (Depth) | Depth-First Search (DFS) | [View Solution](./03_DFS_Traversal/) |
 | 4 | State Space Optimization | Hill Climbing Algorithm | [View Solution](./04_Hill_Climbing/) |
+| 5 | Informed Search | Greedy Best-First Search | [View Solution](./05_Best_First_Search/) |
+| 6 | Optimal Pathfinding | A* (A-Star) Search | [View Solution](./06_A_Star_Search/) |
 
 ## Setup & Requirements
 * Python 3.8+
