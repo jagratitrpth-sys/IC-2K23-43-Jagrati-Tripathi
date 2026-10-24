@@ -9,6 +9,7 @@ This repository contains my laboratory assignments and implementations for the A
 | 1 | Water Jug Problem | Breadth-First Search (BFS) | [View Solution](./01_Water_Jug_Problem/) |
 | 2 | Graph Traversal (Level-Order) | Breadth-First Search (BFS) | [View Solution](./02_BFS_Traversal/) |
 | 3 | Graph Traversal (Depth) | Depth-First Search (DFS) | [View Solution](./03_DFS_Traversal/) |
+| 4 | State Space Optimization | Hill Climbing Algorithm | [View Solution](./04_Hill_Climbing/) |
 
 ## Setup & Requirements
 * Python 3.8+
